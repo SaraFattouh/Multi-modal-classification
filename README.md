@@ -43,8 +43,9 @@ More data about the data challenge: [Data challenge link](https://sigir-ecom.git
 This code was tested in the following environment and with the following software versions:
 - Python 3.7.11
 - PyTorch 1.9.0+cu102
-- Transformers 4.8.2
 - cv2
+- Transformers 4.8.2
+
 
 
 
