@@ -21,7 +21,7 @@ This repository includes two implementations:
 - The Baseline Approach
 - The Proposed Hierachical Approach
 
-In the Baseline Approch, a concatinated field of the product title and description were fed to CamemBERT, FlauBERT. The resulted embeddings X_t1, X_t2 were fused with the embeddings comming from the image classfication model X_im
+In the Baseline Approch, a concatinated field of the product title and description was fed to CamemBERT, FlauBERT. The resulted embeddings X_t1, X_t2 were fused with the embeddings comming from the image classfication model X_im
 
 ![alt text](https://github.com/SaraFattouh/Multi-modal-classification/blob/master/Baseline.png)
 
