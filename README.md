@@ -21,12 +21,12 @@ This repository includes two implementations:
 - The Baseline Approach
 - The Proposed Hierachical Approach
 
-In the Baseline Approch, a concatinated field of the product title and description was fed to CamemBERT, FlauBERT. The resulted embeddings X_t1, X_t2 were fused with the embeddings comming from the image classfication model X_im
+In the baseline approch, a concatinated field of the product title and description was fed to CamemBERT, FlauBERT. The resulted embeddings X_t1, X_t2 were fused with the embeddings comming from the image classfication model X_im
 
 ![alt text](https://github.com/SaraFattouh/Multi-modal-classification/blob/master/Baseline.png)
 
 
-In the proposed Hierachical approach, product's title and description were fed individually to CamemBERT, FlauBERT. The resulted textual embeddings were fused together to get X_t1, X_t2, this is done in the first fusion layer. In the second fusion layer, textual and visual features were fused together. Several fusion approaches used and compared. That includes: Concatenation, Addition, Average 
+In the proposed hierachical approach, product's title and description were fed individually to CamemBERT, FlauBERT. The resulted textual embeddings were fused together to get X_t1, X_t2, this is done in the first fusion layer. In the second fusion layer, textual and visual features were fused together. Several fusion approaches used and compared. That included: Concatenation, Addition, Average 
 
 ![alt text](https://github.com/SaraFattouh/Multi-modal-classification/blob/master/Multi-modal.png)
 
