@@ -37,7 +37,7 @@ Several parts of this codebase are borrowed from [Deep-Learning-Framework-for-Mu
 
 To read more about the baseline approach see: [Paper Link](https://sigir-ecom.github.io/ecom20DCPapers/SIGIR_eCom20_DC_paper_8.pdf) 
 
-More data about the data challenge: [Data challenge link](https://sigir-ecom.github.io/ecom2020/index.html) 
+More data info the data challenge: [Data challenge link](https://sigir-ecom.github.io/ecom2020/index.html) 
 
 # Environment 
 This code was tested in the following environment and with the following software versions:
