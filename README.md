@@ -3,9 +3,8 @@ A deep multi-modal multi-level fusion learning framework categorizes large-scale
 This is a PyTorch implementation of the Multimodal Product Classification task of the 2020 SIGIR Challenge on eCommerce (ECOM20), using Rakuten France's catalog. 
 
 This repository contains the code and resources developed for my Master’s thesis, which focused on a multimodal approach to e-commerce product classification using a hierarchical fusion of image and text data.
-
 Outcome: The results of this research were presented at the IEEE 2nd Conference on Information Technology and Data Science (2022), in the paper titled:
-Multimodal E-Commerce Product Classification Using Hierarchical Fusion.
+[Multimodal E-Commerce Product Classification Using Hierarchical Fusion](https://ieeexplore.ieee.org/document/9914136)
 In this work, we demonstrate how combining visual and textual features improves the classification accuracy of e-commerce products, showcasing the potential of hierarchical fusion models for handling diverse input modalities.
 
 
@@ -52,16 +51,6 @@ This code was tested in the following environment and with the following softwar
 - PyTorch 1.9.0+cu102
 - cv2
 - Transformers 4.8.2
-
-# Citation:
-‘‘‘@INPROCEEDINGS{Fattouh2022Multimodal,
-  author={Sara Fattouh and others},
-  title={Multimodal E-Commerce Product Classification Using Hierarchical Fusion},
-  booktitle={IEEE 2nd Conference on Information Technology and Data Science (CITDS)},
-  year={2022},
-  pages={1-6},
-  doi={10.1109/CITDS55161.2022.9914136}
-}‘‘‘
 
 
 
